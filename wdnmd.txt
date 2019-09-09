@@ -4,9 +4,4 @@
 !!!!!
 分支来了嗷
 整整frature branching
-<<<<<<< HEAD
-master
-=======
-
 wp
->>>>>>> wp
